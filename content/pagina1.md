@@ -32,4 +32,4 @@ Aquí tienes un enlace de ejemplo a [OpenAI](https://www.openai.com).
 
 A continuación, se muestra una imagen de ejemplo. Recuerda colocar la imagen en `static/images` y cambiar la ruta si es necesario:
 
-![Descripción de la imagen](/bobchulo.jpg)
+![Descripción de la imagen](/images/bobchulo.jpg)
